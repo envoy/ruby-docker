@@ -9,4 +9,5 @@ RUN apk add --update git \
                      build-base \
                      curl-dev \
                      libpq \
-                     postgresql-dev
+                     postgresql-dev \
+                     nodejs
