@@ -123,6 +123,7 @@ RUN apk add --update git \
                      postgresql-dev \
                      postgresql-client \
                      nodejs \
-                     file
+                     file \
+                     tzdata
 
 CMD [ "irb" ]
