@@ -1,0 +1,3 @@
+FROM teamenvoy/ruby:2.5.3-51a135a
+
+ARG BUNDLER_GITHUB__COM
